@@ -1,0 +1,20 @@
+.header {
+	margin:auto;
+	background-color:#5F9EA0;
+	padding:15px;
+	width:100%;
+}
+
+#headerTitle {
+	float:left;
+	color:black;
+	font-family:"Verdana",serif,20px;
+}
+
+#homeLinks {
+	float:right;
+}
+
+a {
+	color:white;
+}
